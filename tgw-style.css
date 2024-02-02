@@ -87,7 +87,7 @@
 
 /*header wrapper*/
 .header-wrapper {
-  background-image: url("media/dandelion.jpg");
+  background-image: url("dandelion.jpg");
   background-attachment: scroll;
   width: 100%;
   height: 400px;
